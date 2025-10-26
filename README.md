@@ -1,6 +1,6 @@
 # LangChain Structured Output Using Pydantic
 
-This project demonstrates how to use LangChain with Pydantic for structured data extraction from text. It reads support tickets (in Turkish) from a CSV file, processes them using the Google Gemini 2.5 Flash model, and logs the validated, structured output to both the console and a JSONL file.
+This project demonstrates how to use LangChain with Pydantic for structured data extraction from text. It reads support tickets from a CSV file, processes them using the Google Gemini 2.5 Flash model, and logs the validated, structured output to both the console and a JSONL file.
 
 ## ✨ Features
 
@@ -92,6 +92,13 @@ These instructions assume you are on a Linux-based system like Ubuntu 24.04.
     python3.12 -m venv .venv
     source .venv/bin/activate
     ```
+    or
+
+    ```bash
+    uv init langchain-ticket-parser -p 3.12
+    ```
+    which includes step 1 and step 2 at once.
+
 3.  **Install packages:**
     ```bash
     pip install "langchain==0.3.26" langchain-google-genai pydantic python-dotenv
@@ -113,6 +120,10 @@ Run the script, passing the CSV file as an argument:
 
 ```bash
 python process_tickets.py support_tickets_minimal.csv
+```
+or:
+```bash
+python uv run python process_tickets.py support_tickets_minimal.csv
 ```
 
 ## 🏁 Expected Output
