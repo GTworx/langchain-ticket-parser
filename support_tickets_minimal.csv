@@ -1,0 +1,21 @@
+user_id,complaint,created_at
+CUST-001,"I contacted them by phone: There's a 200 TL overcharge on my bill. Please have it fixed immediately.",2025-08-28 03:14
+CUST-002,"I wrote to them via live chat, the app crashes as soon as I open it; please have the technical team look into it.",2025-08-21 17:25
+CUST-003,"I emailed them: My account is locked, I'm not receiving the password reset link.",2025-08-20 16:17
+CUST-004,"My internet has been very slow since last night. I reset my modem, but it didn't work. I have an important meeting, it's urgent.",2025-08-29 08:59
+CUST-005,"I want to cancel my subscription; I couldn't connect to the call center. Could you explain the process?",2025-08-23 17:06
+CUST-006,"I made a payment, but it's not showing up in the system; I've sent receipts twice, but it's still not resolved.",2025-08-23 08:19
+CUST-007,I'm getting an 'unauthorized' error when logging in to the mobile app; could it be my company account?,2025-08-23 02:00
+CUST-008,I'd like to learn the details of your new campaign; I received an SMS, but the link isn't working.,2025-08-22 01:38
+CUST-009,"Router lights are off, internet is completely out; when can field teams arrive?",2025-08-29 07:30
+CUST-010,"The discount wasn't reflected in the last billing period; it's in my contract, I'm requesting a refund.",2025-08-21 14:51
+CUST-011,"I submitted my complaint for 3 days, but no one has responded; I request that it be prioritized.",2025-08-28 14:06
+CUST-012,"I'm experiencing interruptions in VoIP calls; it's affecting my work. Please check technical support.",2025-08-29 08:44
+CUST-013,Email verification failed due to incorrect name spelling. I want to correct my registration name.,2025-08-26 23:50
+CUST-014,The live support representative opened a line, but the status hasn't been updated; ticket number 45721.,2025-08-21 10:19
+CUST-015,My modem keeps rebooting; could it be an overheating issue?,2025-08-27 12:59
+CUST-016,I requested a transfer from my old address to my new one; the appointment date hasn't been finalized.,2025-08-25 11:53
+CUST-017,There was a double charge on the invoice; the bank statement shows two charges.,2025-08-20 18:15
+CUST-018,The password reset page says 'token expired'; I'm requesting a new link.,2025-08-20 17:40
+CUST-019,I changed my plan, but the speed didn't increase; the measurements show the same values.,2025-08-21 12:17
+CUST-020,"My request to cancel an additional package hasn't been received; I was charged last month as well, and I'd like a refund.",2025-08-23 00:40
